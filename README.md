@@ -1,13 +1,20 @@
 ***--- TaxibookingApp - Springboot, Thymeleaf ---***
 
+Our Taxi Booking Application is a web-based platform designed to offer a seamless experience for booking taxis. Built with Spring Boot for backend processing and Thymeleaf for server-side rendering of web pages, this application ensures robust performance, easy maintenance, and a user-friendly interface.
+
 
 @Technology used in this Project:
+1)Spring Boot: Provides a robust and scalable backend, supporting RESTful APIs for seamless data interaction.
 
-i) Thymeleaf,HTML,CSS : designing page layout
+2)Thymeleaf: Template engine for rendering dynamic web pages, ensuring a responsive and interactive user interface.
 
-ii) MySQL: MySQL database has been used as database.
+3)Spring Security: Ensures user data protection through authentication and authorization mechanisms.
 
-iii) Hibernate: Hibernate ORM is used.
+4)Hibernate/JPA: For efficient ORM (Object-Relational Mapping) and database management.
+
+5)MySQL Database: For storing user profiles, ride details, driver information, and transaction records.
+
+6)Bootstrap: Enhances the visual appeal and responsiveness of web pages
 
 
 @Software And Tools Required:
