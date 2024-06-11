@@ -18,11 +18,14 @@
 6)Bootstrap: Enhances the visual appeal and responsiveness of web pages
 
 
+
 @Software And Tools Required:
+
 
 i)Eclipse EE or Spring Tool Suite
 
 ii)MySQL
+
 
 
 @Some Screenshots of this Project:
