@@ -1,18 +1,23 @@
-TaxibookingApp - Springboot, Thymeleaf
+***--- TaxibookingApp - Springboot, Thymeleaf ---***
 
 
-Technology used in this Project:
+@Technology used in this Project:
+
 i) Thymeleaf,HTML,CSS : designing page layout
+
 ii) MySQL: MySQL database has been used as database.
+
 iii) Hibernate: Hibernate ORM is used.
 
 
-Software And Tools Required:
+@Software And Tools Required:
 
 i)Eclipse EE or Spring Tool Suite
+
 ii)MySQL
 
-Some Screenshots of this Project:
+
+@Some Screenshots of this Project:
 
 
 ![Screenshot 2024-06-11 202108](https://github.com/abhishekdeshmukh2306/Taxibooking/assets/135852428/1bb0ae72-8e77-4b8b-a2bc-8d71bb945d40)
